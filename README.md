@@ -2,7 +2,10 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Cala de Oliveira, tenho 32 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando HTML CSS JS. Sou apaixonade por tecnologia, estou mudando de profissão e tenho facilidade no aprendizado. Você consegue ver meu outros trabalhos nesse [LINK](https://calaoliveira.carrd.co/).
+Me chamo Cala de Oliveira, tenho 32 anos e sou natural do Rio Grande do Sul.
+Atualmente, estou cursando Algorítmos e Lógica de Programação, HTML, CSS, JS e Python.
+Sou apaixonade por tecnologia, estou mudando de profissão e tenho facilidade no aprendizado.
+Você consegue ver meu outros trabalhos nesse [LINK](https://calaoliveira.carrd.co/).
 
 <p align="left">
    
